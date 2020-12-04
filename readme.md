@@ -1,0 +1,2 @@
+# Git Curse
+Arquivo modificado
